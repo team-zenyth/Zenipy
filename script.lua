@@ -1,0 +1,5 @@
+os.setcpu(333)
+dofile("resrcs.lua")
+sound.play(generique)
+splash.show("ressources/images/splash.png")
+dofile("jeu.lua")
