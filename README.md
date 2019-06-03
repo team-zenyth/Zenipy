@@ -6,7 +6,7 @@ Only available in french
 
 ## Credits
 
-- Developped by Wirus
+- Developed by Wirus
 - Graphics by SamirNasri
 - Thanks to all other members of the Team Zenyth
 - Thanks to gdljjrod for the OneLua PLayer
